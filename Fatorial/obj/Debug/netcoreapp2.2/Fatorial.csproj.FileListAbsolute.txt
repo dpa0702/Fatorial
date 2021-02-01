@@ -1,0 +1,9 @@
+/Users/demetriosarghirachis/Projects/Fatorial/Fatorial/bin/Debug/netcoreapp2.2/Fatorial.deps.json
+/Users/demetriosarghirachis/Projects/Fatorial/Fatorial/bin/Debug/netcoreapp2.2/Fatorial.runtimeconfig.json
+/Users/demetriosarghirachis/Projects/Fatorial/Fatorial/bin/Debug/netcoreapp2.2/Fatorial.runtimeconfig.dev.json
+/Users/demetriosarghirachis/Projects/Fatorial/Fatorial/bin/Debug/netcoreapp2.2/Fatorial.dll
+/Users/demetriosarghirachis/Projects/Fatorial/Fatorial/bin/Debug/netcoreapp2.2/Fatorial.pdb
+/Users/demetriosarghirachis/Projects/Fatorial/Fatorial/obj/Debug/netcoreapp2.2/Fatorial.AssemblyInfoInputs.cache
+/Users/demetriosarghirachis/Projects/Fatorial/Fatorial/obj/Debug/netcoreapp2.2/Fatorial.AssemblyInfo.cs
+/Users/demetriosarghirachis/Projects/Fatorial/Fatorial/obj/Debug/netcoreapp2.2/Fatorial.dll
+/Users/demetriosarghirachis/Projects/Fatorial/Fatorial/obj/Debug/netcoreapp2.2/Fatorial.pdb
